@@ -1,3 +1,3 @@
 # Dublin Photos
 
-Welcome![Dublin Photos](https://codeinstitute.net)
+Welcome! [View the live project here.](https://yosephdev.github.io/dublin-photos/)
